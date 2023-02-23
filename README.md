@@ -1,2 +1,2 @@
 # My-Todo-app
-Its a Todo app you can your daily routine here. 
+Its a Todo app you add can your daily routine here. 
